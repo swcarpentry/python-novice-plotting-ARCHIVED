@@ -187,6 +187,20 @@ print(ewr_422_yY, 'is', flabadab, 'years old')
 > lowest = highest
 > highest = temp
 > ~~~
+
+> > ## Solution
+> > The initial values of lowest and highest are switched.
+> > lowest = 3.0 and highest = 1.0
+> > ~~~
+> > print(lowest)
+> > print(highest)
+> > ~~~
+> > {: .python}
+> > ~~~
+> > 3.0
+> > 1.0
+> > ~~~
+
 > {: .source}
 {: .challenge}
 
