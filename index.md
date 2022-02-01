@@ -4,11 +4,11 @@ layout: lesson
 
 > ## This lesson is archived
 >
-> This lesson is now longer under active development.
+> This lesson is no longer under active development.
 > Please consider using this lesson:
 > [Plotting and Programming in Python](https://swcarpentry.github.io/python-novice-gapminder/)
 > instead.
-{. callout}
+{: . callout}
 
 This lesson is an introduction to programming Python
 for people with little or no previous programming experience.
